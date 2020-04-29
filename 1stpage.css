@@ -1,0 +1,15 @@
+h1{
+  color:red;
+  background-color: yellow;
+  font-style: italic;
+  font-size:110px;
+  font-family:'monotype corsiva';
+  font-variant:small-caps;
+  text-align: center;
+  }
+p{
+  color:rgb(054%,76%,89%);
+  background-color:rgb(100%,0,0);
+  text-align: center;
+  font-size: 120%;
+}
